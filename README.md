@@ -70,15 +70,15 @@ A Pokédex-inspired interactive portfolio website designed to showcase projects,
 <h2 align="center">🌐 Connect With Me</h2>
 
 <p align="center">
-  <a href=(https://charanisa.github.io/pokedex-portfolio/)>
+  <a href="https://charanisa.github.io/pokedex-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
-  <a href=www.linkedin.com/in/charan-saragadam>
+  <a href="www.linkedin.com/in/charan-saragadam">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href=saragadam.charan@gmail.com>
+  <a href="saragadam.charan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
