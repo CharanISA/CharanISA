@@ -1,16 +1,74 @@
-## Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Cain's%20Developer%20Hub&fontSize=45)
 
-<!--
-**CharanISA/CharanISA** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hey, I'm Charan 👋
 
-Here are some ideas to get you started:
+Aspiring Software Developer with interests in AI, Cloud Infrastructure, Data Analysis, UI/UX, and Project Management.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy building projects that turn messy information into useful tools.
+
+## 🚀 Currently Building
+
+- Universal Knowledge Graph Builder
+- Cloud Infrastructure Deployment Lab
+
+## ⚡ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-844FBA?style=for-the-badge&logo=terraform&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌟 Featured Projects
+
+
+### ⏳ Codebase Time Machine
+An AI-powered developer tool that lets users explore the evolution of a codebase over time using natural language. Search commits, understand architectural changes, and trace how features evolved across versions.
+
+**Technologies:** Python, Flask, Git, AI/NLP
+
+---
+
+### 🧠 Universal Knowledge Graph Builder
+Transforms unstructured documents into interactive knowledge graphs by extracting entities, identifying relationships, and visualizing connections.
+
+**Technologies:** Python, NLP, Graph Databases, AI
+
+---
+
+### ☁️ Cloud Infrastructure Deployment Lab
+Built a production-style AWS environment using Terraform and Linux. Automated infrastructure deployment, networking, IAM security, monitoring, and backup strategies.
+
+**Technologies:** AWS, Terraform, Linux, Git
+
+---
+
+### 🎮 TrainerDex Portfolio
+A Pokédex-inspired interactive portfolio website designed to showcase projects, skills, and experience through a unique gaming-inspired interface.
+
+**Technologies:** HTML, CSS, JavaScript
+
+
+## 📊 GitHub Stats
+
+![Cain's GitHub stats](https://github-readme-stats.vercel.app/api?username=CharanISA&show_icons=true&theme=tokyonight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanISA&layout=compact&theme=tokyonight)
+
+## 🎯 2026 Goals
+
+- Build production-ready AI applications
+- Earn AWS Cloud certifications
+- Grow my GitHub portfolio with real-world projects
+- Launch full-stack and cloud-native solutions
+- Continue developing skills in Data Analytics and Project Management
+
+## 🌐 Connect With Me
+
+- Portfolio: https://charanisa.github.io/pokedex-portfolio/
+- LinkedIn: www.linkedin.com/in/charan-saragadam
+- Email: saragadam.charan@gmail.com
+
+
