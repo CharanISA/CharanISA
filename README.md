@@ -74,11 +74,11 @@ A Pokédex-inspired interactive portfolio website designed to showcase projects,
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
   </a>
 
-  <a href="www.linkedin.com/in/charan-saragadam">
+  <a href="https://www.linkedin.com/in/charan-saragadam/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
 
-  <a href="saragadam.charan@gmail.com">
+  <a href="mailto:saragadam.charan@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
   </a>
 </p>
