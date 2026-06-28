@@ -8,8 +8,6 @@ I enjoy building projects that turn messy information into useful tools.
 
 
 
-<h2 align="center">🌐 Connect With Me</h2>
-
 <p align="center">
   <a href="https://charanisa.github.io/pokedex-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
