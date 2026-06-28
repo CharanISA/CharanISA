@@ -7,7 +7,6 @@ Aspiring Software Developer with interests in AI, Cloud Infrastructure, Data Ana
 I enjoy building projects that turn messy information into useful tools.
 
 
-
 <p align="center">
   <a href="https://charanisa.github.io/pokedex-portfolio/">
     <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
