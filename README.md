@@ -28,6 +28,7 @@ An AI-powered developer tool that lets users explore the evolution of a codebase
 
 **Technologies:** Python, Flask, Git, AI/NLP
 
+
 https://github.com/CharanISA/codebase-time-machine
 
 ---
@@ -36,6 +37,7 @@ https://github.com/CharanISA/codebase-time-machine
 Transforms unstructured documents into interactive knowledge graphs by extracting entities, identifying relationships, and visualizing connections.
 
 **Technologies:** Python, NLP, Graph Databases, AI
+
 
 https://github.com/CharanISA/universal-knowledge-graph-builder
 
@@ -47,6 +49,7 @@ https://github.com/CharanISA/universal-knowledge-graph-builder
 A Pokédex-inspired interactive portfolio website designed to showcase projects, skills, and experience through a unique gaming-inspired interface.
 
 **Technologies:** HTML, CSS, JavaScript
+
 
 https://github.com/CharanISA/pokedex-portfolio
 
