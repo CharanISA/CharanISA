@@ -6,6 +6,24 @@ Aspiring Software Developer with interests in AI, Cloud Infrastructure, Data Ana
 
 I enjoy building projects that turn messy information into useful tools.
 
+
+
+<h2 align="center">🌐 Connect With Me</h2>
+
+<p align="center">
+  <a href="https://charanisa.github.io/pokedex-portfolio/">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
+  </a>
+
+  <a href="https://www.linkedin.com/in/charan-saragadam/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+  </a>
+
+  <a href="mailto:saragadam.charan@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+</p>
+
 ## 🚀 Currently Building
 
 - Cloud Infrastructure Deployment Lab
@@ -62,23 +80,5 @@ https://github.com/CharanISA/pokedex-portfolio
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanISA&layout=compact&theme=tokyonight)
 
 
-
-## 🌐 Connect With Me
-
-<h2 align="center">🌐 Connect With Me</h2>
-
-<p align="center">
-  <a href="https://charanisa.github.io/pokedex-portfolio/">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=white">
-  </a>
-
-  <a href="https://www.linkedin.com/in/charan-saragadam/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a>
-
-  <a href="mailto:saragadam.charan@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-</p>
 
 
