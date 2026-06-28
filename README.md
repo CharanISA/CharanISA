@@ -61,13 +61,7 @@ https://github.com/CharanISA/pokedex-portfolio
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=CharanISA&layout=compact&theme=tokyonight)
 
-## 🎯 2026 Goals
 
-- Build production-ready AI applications
-- Earn AWS Cloud certifications
-- Grow my GitHub portfolio with real-world projects
-- Launch full-stack and cloud-native solutions
-- Continue developing skills in Data Analytics and Project Management
 
 ## 🌐 Connect With Me
 
