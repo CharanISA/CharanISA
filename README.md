@@ -8,7 +8,6 @@ I enjoy building projects that turn messy information into useful tools.
 
 ## 🚀 Currently Building
 
-- Universal Knowledge Graph Builder
 - Cloud Infrastructure Deployment Lab
 
 ## ⚡ Tech Stack
@@ -28,6 +27,7 @@ I enjoy building projects that turn messy information into useful tools.
 An AI-powered developer tool that lets users explore the evolution of a codebase over time using natural language. Search commits, understand architectural changes, and trace how features evolved across versions.
 
 **Technologies:** Python, Flask, Git, AI/NLP
+https://github.com/CharanISA/codebase-time-machine
 
 ---
 
@@ -35,21 +35,19 @@ An AI-powered developer tool that lets users explore the evolution of a codebase
 Transforms unstructured documents into interactive knowledge graphs by extracting entities, identifying relationships, and visualizing connections.
 
 **Technologies:** Python, NLP, Graph Databases, AI
+https://github.com/CharanISA/universal-knowledge-graph-builder
 
 ---
 
-### ☁️ Cloud Infrastructure Deployment Lab
-Built a production-style AWS environment using Terraform and Linux. Automated infrastructure deployment, networking, IAM security, monitoring, and backup strategies.
 
-**Technologies:** AWS, Terraform, Linux, Git
-
----
 
 ### 🎮 TrainerDex Portfolio
 A Pokédex-inspired interactive portfolio website designed to showcase projects, skills, and experience through a unique gaming-inspired interface.
 
 **Technologies:** HTML, CSS, JavaScript
+https://github.com/CharanISA/pokedex-portfolio
 
+---
 
 ## 📊 GitHub Stats
 
